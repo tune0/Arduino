@@ -1,3 +1,3 @@
 # Arduino
  
-To share arduino projects
+To share Arduino projects
